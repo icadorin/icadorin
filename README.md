@@ -2,7 +2,6 @@
 
 <br><br>
 [![Portfolio](https://img.shields.io/badge/🚀_PORTFOLIO-FF2D75?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000)](https://israelcadorin.vercel.app)
-<br><br>
 
 #
 
