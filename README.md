@@ -7,8 +7,7 @@
 🐱‍🏍 Atualmente desenvolvendo:
 [**QuickBite**](https://github.com/icadorin/quick-bite-backend) - Plataforma de delivery com arquitetura de microsserviços em Java/Spring Boot, explorando Spring Cloud, Kafka e Redis.
 
-📚 Acompanhe o processo de desenvolvimento e aprendizado do projeto **QuickBite**.  
-Confira aqui: [QuickBite Docs](https://israelcadorin.vercel.app/quickbite)
+📚 Acompanhe o processo de desenvolvimento e aprendizado do projeto **QuickBite**: [QuickBite Docs](https://israelcadorin.vercel.app/quickbite)
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Israel-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
