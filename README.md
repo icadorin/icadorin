@@ -4,7 +4,7 @@
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="200">
 </p>
 
-🐱‍🏍 Atualmente desenvolvendo:
+Atualmente desenvolvendo:
 [**QuickBite**](https://github.com/icadorin/quick-bite-backend) - Plataforma de delivery com arquitetura de microsserviços em Java/Spring Boot, explorando Spring Cloud, Kafka e Redis.
 
 📚 Acompanhe o processo de desenvolvimento e aprendizado do projeto **QuickBite**: [QuickBite Docs](https://israelcadorin.vercel.app/quickbite)
